@@ -7,11 +7,11 @@ A collection of Python projects showcasing different concepts and skills. This r
 
     Web Scraper
 
+    Content Book App
+
 🚧 Upcoming Projects
 
     Weather Forecasting App
-
-    Content Book App
 
     Number Guessing Game
 
