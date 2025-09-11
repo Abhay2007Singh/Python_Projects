@@ -65,7 +65,7 @@ Run the application using:
 
         : 1
         Enter the name: kunal soyal
-        Enter the number: 6250139527
+        Enter the number: xxxxxxxxxx
         kunal soyal already exists!
 
         Enter the task you want to perform:
@@ -74,7 +74,7 @@ Run the application using:
         Enter the name: gorav gumber
 
         Name: gorav gumber
-        Phone: 9799875350
+        Phone: xxxxxxxxxx
 
         Enter the task you want to perform:
 
@@ -95,7 +95,7 @@ Run the application using:
         3
         Enter the name: gorav gumber
 
-        Contact 'gorav gumber' with phone number 9799875350 was deleted successfully!
+        Contact 'gorav gumber' with phone number xxxxxxxxxx was deleted successfully!
 
         Enter the task you want to perform:
 
@@ -103,7 +103,7 @@ Run the application using:
 
         Current Contacts:
 
-        {'abhay kumar singh': '6203191018', 'kunal soyal': '6350424508', 'harshvardhan salvi': '6203191018'}
+        {'abhay kumar singh': 'xxxxxxxxxx', 'kunal soyal': 'xxxxxxxxxx', 'harshvardhan salvi': 'xxxxxxxxxx'}
 
         Enter the task you want to perform:
 
