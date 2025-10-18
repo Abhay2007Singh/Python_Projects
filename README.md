@@ -22,12 +22,12 @@ Repository Structure (example)
         todo-list-app/
 
         web-scraper/
-
-    upcoming/
-
+        
         weather-forecasting-app/
 
         content-book-app/
+
+    upcoming/
 
         number-guessing-game/
 
